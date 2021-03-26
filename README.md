@@ -26,7 +26,7 @@ We'll use three components, forming a parent with two children:
 └── Matrix
     ├── ColorSelector
     └── Cell (x625)
-```
+``` 
 
 We would like to implement the following behavior: The `ColorSelector` component
 provides the user interface to select a specific color. When a particular `Cell`
